@@ -13,3 +13,7 @@ queries:
 # paths-ignore:
 #   - tests
 #   - lib
+
+query-filters:
+  - exclude:
+      id: py/commented-out-code
